@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/Bright-Kunakorn"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/kunakorn-topurin"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -50,7 +50,7 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  🐳 &emsp; Woring on Proof of Concept<br/><br/>
  📧 &emsp; Reach me anytime: kunakorn_topu@hotmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Bright-Kunakorn/Bright-Kunakorn/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/kunakorn-topurin/kunakorn-topurin/issues)
 
 </p>
 
@@ -101,22 +101,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical&border=7F3FBF&background=0D1117" alt="Bright-Kunakorn's GitHub streak"/>
+  <a href="https://github.com/kunakorn-topurin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunakorn-topurin&theme=radical&border=7F3FBF&background=0D1117" alt="Bright-Kunakorn's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bright-Kunakorn&theme=radical" alt="Kunakorn Topurin's GitHub Contribution"/>
+  <a href="https://github.com/kunakorn-topurin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunakorn-topurin&theme=radical" alt="Kunakorn Topurin's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Bright-Kunakorn"><img alt="Kunakorn Topurin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/kunakorn-topurin"><img alt="Kunakorn Topurin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kunakorn-topurin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Bright-Kunakorn"><img alt="Kunakorn Topurin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Kunakorn Topurin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Bright-Kunakorn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Kunakorn Topurin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunakorn-topurin&custom_title=kunakorn-topurin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
